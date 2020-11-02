@@ -10,12 +10,14 @@
         <li><a href="./README-RO.md"> Românesc </a></li>
         <li><a href="./README-IT.md"> Italiano </a></li>
         <li><a href="./README-ES.md"> Español </a></li>
+        <li><a href="./README-FA.md"> Persian </a></li>
         <li><a href="./README-pt-BR.md"> Português (BR) </a></li>
         <li><a href="./README-DE.md"> Deutsch </a></li>
         <li><a href="./README-GR.md"> Ελληνικά </a></li>
         <li><a href="./README-FR.md"> Français </a></li>
         <li><a href="./README-KO.md"> 한국어 </a></li>
         <li><a href="./README-JA.md"> 日本語 </a></li>
+       
     </ul>
 </details>
 <!-- Do not translate this -->
